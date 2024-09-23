@@ -37,7 +37,7 @@ function App() {
 
         <div className="text-center mx-auto">
           <h3 className="text-4xl tracking-wider">
-            Play and earn <span className="text-[#896DD8]">$TRON</span>
+            Play and earn <span className="text-[#896DD8]">$COMAI</span>
           </h3>
 
           <div className="my-2"></div>

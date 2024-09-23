@@ -82,7 +82,7 @@ const GameStartPage = ({ handleRestart }: { handleRestart: any }) => {
         onClick={handleRestart}
         disabled={true}
       >
-        Play to earn $TRON (soon)
+        Play to earn $COMAI (soon)
       </button>
     </>
   );
